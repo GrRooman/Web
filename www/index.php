@@ -27,4 +27,8 @@ $APPLICATION->SetTitle("Мебельная компания");
 	),
 	false
 );?>
+<?
+$a="Проверка";
+test_dump($a);
+?>
 </p><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
