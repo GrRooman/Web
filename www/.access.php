@@ -1,9 +1,8 @@
 <?
-$PERM["admin"]["2"]="R";
-$PERM["admin"]["3"]="R";
-$PERM["admin"]["4"]="R";
-$PERM["admin"]["6"]="X";
-$PERM["admin"]["5"]="R";
+$PERM["admin"]["2"]="D";
+$PERM["admin"]["3"]="D";
+$PERM["admin"]["4"]="D";
+$PERM["admin"]["5"]="D";
 $PERM["admin"]["*"]="R";
 $PERM["search"]["5"]="W";
 $PERM["products"]["5"]="W";
