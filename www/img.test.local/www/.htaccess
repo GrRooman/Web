@@ -1,5 +1,0 @@
-ErrorDocument 404 /goods/file404.html
-
-
-Redirect /s10.jpg http://img.test.local/goods/s/s10.jpg
-Redirect /m10.jpg http://img.test.local/goods/m/m10.jpg

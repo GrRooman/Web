@@ -1,8 +1,9 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Акции");
+$APPLICATION->SetPageProperty("title", "Условия сотрудничества");
+$APPLICATION->SetTitle("Условия сотрудничества");
 ?>
+<?
 
-Text here....
-
- and i am<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+?>
+Text here....<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

@@ -1,6 +1,13 @@
 <?
 $aMenuLinks = Array(
 	Array(
+		"", 
+		"/", 
+		Array(), 
+		Array("IMG"=>"/local/templates/new_template/images/nv_home.png"), 
+		"" 
+	),
+	Array(
 		"Компания", 
 		"company/", 
 		Array(), 
@@ -22,6 +29,20 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
+		"Услуги", 
+		"services/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
 		"Акции", 
 		"aktsii/", 
 		Array(), 
@@ -30,14 +51,7 @@ $aMenuLinks = Array(
 	),
 	Array(
 		"Партнерам", 
-		"for_partners/", 
-		Array(), 
-		Array(), 
-		"" 
-	),
-	Array(
-		"Контакты", 
-		"contacts/", 
+		"partneram/", 
 		Array(), 
 		Array(), 
 		"" 
