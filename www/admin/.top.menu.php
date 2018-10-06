@@ -8,29 +8,22 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Компания1", 
-		"company/", 
+		"Admin", 
+		"/admin/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Новости2", 
-		"news/", 
+		"Инфоблоки", 
+		"/admin/iblock/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Каталог3", 
-		"products/", 
-		Array(), 
-		Array(), 
-		"" 
-	),
-	Array(
-		"Услуги4", 
-		"services/", 
+		"Пользователи", 
+		"/admin/users/", 
 		Array(), 
 		Array(), 
 		"" 
