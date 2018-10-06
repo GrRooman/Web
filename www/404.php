@@ -14,10 +14,6 @@ $APPLICATION->IncludeComponent("bitrix:main.map", ".default", array(
 		"SHOW_DESCRIPTION" => "Y",
 		"SET_TITLE" => "Y",
 		"CACHE_TIME" => "36000000"
-	),
-	false,
-	array(
-	"ACTIVE_COMPONENT" => "N"
 	)
 );
 
