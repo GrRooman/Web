@@ -8,13 +8,6 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Admin", 
-		"/admin/", 
-		Array(), 
-		Array(), 
-		"" 
-	),
-	Array(
 		"Инфоблоки", 
 		"/admin/iblock/", 
 		Array(), 

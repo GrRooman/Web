@@ -1,13 +1,5 @@
 <?php
 $arUrlRewrite=array (
-  3 => 
-  array (
-    'CONDITION' => '#^/admin/iblock/#',
-    'RULE' => '',
-    'ID' => 'bitrix:news',
-    'PATH' => '/admin/iblock/index.php',
-    'SORT' => 100,
-  ),
   0 => 
   array (
     'CONDITION' => '#^/services/#',

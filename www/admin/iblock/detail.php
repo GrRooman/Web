@@ -3,9 +3,9 @@ require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Детально");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:news.detail", 
-	".default", 
+	"news_detail", 
 	array(
-		"COMPONENT_TEMPLATE" => ".default",
+		"COMPONENT_TEMPLATE" => "news_detail",
 		"IBLOCK_TYPE" => "news",
 		"IBLOCK_ID" => "1",
 		"ELEMENT_ID" => $_REQUEST["ID"],
