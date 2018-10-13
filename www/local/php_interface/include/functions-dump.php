@@ -1,5 +1,5 @@
 <?
-function test_dump($var, $die = false, $all = false)
+function tdump($var, $die = false, $all = false)
 {
 	global $USER;
 	if( ($USER->GetID() == 1) || ($all == true))
